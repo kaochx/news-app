@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43391521280D172200BC1D67 /* NewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43391520280D172200BC1D67 /* NewsTableViewCell.swift */; };
 		7BAE523028097BFB00F70D63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAE522F28097BFB00F70D63 /* AppDelegate.swift */; };
 		7BAE523228097BFB00F70D63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAE523128097BFB00F70D63 /* SceneDelegate.swift */; };
 		7BAE523428097BFB00F70D63 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BAE523328097BFB00F70D63 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		43391520280D172200BC1D67 /* NewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewCell.swift; sourceTree = "<group>"; };
 		7BAE522C28097BFB00F70D63 /* NewsAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BAE522F28097BFB00F70D63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BAE523128097BFB00F70D63 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				7BAE523A28097BFE00F70D63 /* LaunchScreen.storyboard */,
 				7BAE523D28097BFE00F70D63 /* Info.plist */,
 				7BAE524328097EF500F70D63 /* APICaller.swift */,
+				43391520280D172200BC1D67 /* NewsTableViewCell.swift */,
 			);
 			path = NewsAPP;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				7BAE523428097BFB00F70D63 /* ViewController.swift in Sources */,
 				7BAE523028097BFB00F70D63 /* AppDelegate.swift in Sources */,
+				43391521280D172200BC1D67 /* NewsTableViewCell.swift in Sources */,
 				7BAE523228097BFB00F70D63 /* SceneDelegate.swift in Sources */,
 				7BAE524428097EF500F70D63 /* APICaller.swift in Sources */,
 			);
