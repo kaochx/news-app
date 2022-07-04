@@ -76,7 +76,7 @@ class NewsTableViewCell: UITableViewCell {
     override func prepareForReuse() {
         super.prepareForReuse()
         newsTitleLable.text = nil
-        subtitleLable.text = nil //練習Rest API
+        subtitleLable.text = nil
         newsImageView.image = nil
     }
     
